@@ -1,0 +1,15 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: darkred
+}
+
+p{
+font-size: 14px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: lightpink;
+}
